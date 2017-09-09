@@ -1,1 +1,2 @@
-Hola, en esta sesión aprenderás a trabajar con repositorios remotos
+Hola, en esta sesión aprenderás a trabajar e interactuar con repositorios remotos
+Igualmente crearas una cuenta de Github.
